@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohammad Kamrul Hassan
-### Competitive Programmer · Full-Stack Developer · CS Student
+### Competitive Programmer · Developer · CS Student
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-blue?style=flat-square&logo=codeforces)](https://codeforces.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Active-orange?style=flat-square&logo=leetcode)](https://leetcode.com/)
